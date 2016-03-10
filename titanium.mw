@@ -1,0 +1,104 @@
+{{infobox element
+|number=22
+|symbol=Ti
+|name=titanium
+|pronounce={{IPAc-en|t|aɪ|ˈ|t|eɪ|n|i|ə|m}}
+|pronounce 2={{respell|ty|TAY|nee-əm}}
+|left=[[scandium]]
+|right=[[vanadium]]
+|above=–
+|below=[[zirconium|Zr]]
+|series=transition metal
+|group=4
+|period=4
+|block=d
+|appearance=silvery grey-white metallic
+|image name=Titan-crystal bar.JPG
+|atomic mass=47.867
+|atomic mass ref=&lt;ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]&lt;/ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&amp;#91;[[argon|Ar]]&amp;#93; 3d&lt;sup>2&lt;/sup> 4s&lt;sup>2&lt;/sup>
+|electrons per shell=2, 8, 10, 2
+|phase=solid
+|density gplstp=
+|density gpcm3nrt=4.506
+|density gpcm3nrt 2=
+|density gpcm3mp=4.11
+|melting point K=1941
+|melting point C=1668
+|melting point F=3034
+|boiling point K=3560
+|boiling point C=3287
+|boiling point F=5949
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=14.15
+|heat fusion 2=
+|heat vaporization=425
+|heat capacity=25.060
+|vapor pressure 1=1982
+|vapor pressure 10=2171
+|vapor pressure 100=(2403)
+|vapor pressure 1 k=2692
+|vapor pressure 10 k=3064
+|vapor pressure 100 k=3558
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states='''4''', 3, 2, 1, −1, −2
+|oxidation states ref=&lt;ref>{{cite journal
+ |author=Andersson, N.|title=Emission spectra of TiH and TiD near 938 nm
+ |url=http://bernath.uwaterloo.ca/media/257.pdf|journal=J. Chem. Phys.
+ |volume=118|year=2003|page=10543
+ |doi=10.1063/1.1539848|bibcode=2003JChPh.118.3543A |display-authors=etal}}&lt;/ref>
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.54
+|number of ionization energies=4
+|ionization energy 1=658.8
+|ionization energy 2=1309.8
+|ionization energy 3=2652.5
+|atomic radius=147
+|atomic radius calculated=
+|covalent radius=160±8
+|Van der Waals radius=
+|magnetic ordering=[[paramagnetic]]
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=420
+|thermal conductivity=21.9
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=8.6
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=5090
+|Young's modulus=116
+|Shear modulus=44
+|Bulk modulus=110
+|Poisson ratio=0.32
+|Mohs hardness=6.0
+|Vickers hardness=830–3420
+|Brinell hardness=716–2770
+|CAS number=7440-32-6
+|isotopes=
+{{infobox element/isotopes decay2
+ | mn=44 | sym=Ti | na=[[synthetic radioisotope|syn]] | hl=[[1 E9 s|63&amp;nbsp;y]]
+ | dm1=[[electron capture|ε]] | de1=– | link1=scandium-44 | pn1=44 | ps1=Sc
+ | dm2=[[gamma radiation|γ]] | de2=0.07[[Delayed nuclear radiation|D]], 0.08D | pn2= | ps2=– }}
+{{Infobox element/isotopes stable | mn=46 | sym=Ti | na=8.0% | n=24 |firstlinks=yes}}
+{{Infobox element/isotopes stable | mn=47 | sym=Ti | na=7.3% | n=25 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=48 | sym=Ti | na=73.8% | n=26 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=49 | sym=Ti | na=5.5% | n=27 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=50 | sym=Ti | na=5.4% | n=28 |firstlinks=no}}
+|discovered by=[[William Gregor]]
+|discovery date=1791
+|first isolation by=[[Jöns Jakob Berzelius]]
+|first isolation date=1825
+|named by=[[Martin Heinrich Klaproth]]
+|named date=1795
+}}&lt;noinclude>
+{{Template reference list}}
+{{documentation|1=Template:Infobox element/doc}}
